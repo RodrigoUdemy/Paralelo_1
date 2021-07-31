@@ -1,0 +1,8 @@
+Cuenta gmail -> rodrigocypress1@gmail.com
+password -> M siempre ++
+
+projectId: 4bojez
+
+cypress run --record --key f3138861-6d52-47de-81ff-92acaf0b18f8
+
+npm install cypress --save-dev
